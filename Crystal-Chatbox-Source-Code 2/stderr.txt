@@ -1,0 +1,2 @@
+-c: xset is not available. 'suspend' and 'isSuspended' methods will not work
+-c: Xorg and/or xrandr are not available

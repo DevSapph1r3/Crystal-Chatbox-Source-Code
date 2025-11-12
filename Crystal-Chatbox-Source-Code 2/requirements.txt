@@ -1,0 +1,16 @@
+Flask==3.0.0
+python-osc==1.8.3
+pytz==2023.3
+spotipy
+gunicorn
+pywinctl
+requests
+pywebview
+Flask
+gunicorn
+python-osc
+pytz
+pywebview
+pywinctl
+requests
+spotipy
